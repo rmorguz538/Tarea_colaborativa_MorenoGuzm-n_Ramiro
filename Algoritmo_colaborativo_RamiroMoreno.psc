@@ -1,18 +1,18 @@
-Algoritmo Operación
+Algoritmo OperaciÃ³n
 	
-	Escribir " Ingrese el primer número: "
+	Escribir " Ingrese el primer nÃºmero: "
 	Leer A
 	
-	Escribir " Ingrese el segundo número: "
+	Escribir " Ingrese el segundo nÃºmero: "
 	Leer B
 	
 	C <- ALEATORIO(A,B)
 	
-	Escribir "El número aleatorio es: ", C
+	Escribir "El nÃºmero aleatorio es: ", C
 	
 	D <- RAIZ((A*B)/C)
 	
 	
-	Escribir "El resultado es: ", REDON(C)
+	Escribir "El resultado es: ", REDON(D)
 	
 FinAlgoritmo
